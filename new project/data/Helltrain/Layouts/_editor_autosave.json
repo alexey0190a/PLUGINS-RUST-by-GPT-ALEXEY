@@ -1,0 +1,95 @@
+{
+  "name": null,
+  "faction": null,
+  "cars": null,
+  "objects": [
+    {
+      "type": "loot",
+      "faction": null,
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -0.7037746,
+        1.84854424,
+        -0.4701303
+      ],
+      "rotationY": 268.00824,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "loot",
+      "faction": null,
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -0.424594223,
+        1.72974861,
+        2.53452015
+      ],
+      "rotationY": 337.6904,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "loot",
+      "faction": null,
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -0.5332609,
+        2.08380079,
+        1.2646625
+      ],
+      "rotationY": 359.088959,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "npc",
+      "faction": null,
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        0.7250302,
+        1.5069555,
+        0.7197573
+      ],
+      "rotationY": 6.375418,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    }
+  ]
+}

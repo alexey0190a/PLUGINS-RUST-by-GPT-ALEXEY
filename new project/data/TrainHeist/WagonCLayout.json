@@ -1,0 +1,58 @@
+{
+  "NPC Settings": {
+    "Amount to spawn": 0,
+    "Starting health": 200,
+    "NPC Names": [],
+    "Scientist kits (chosen at random)": [],
+    "Local spawn positions": []
+  },
+  "AutoTurret Settings": {
+    "Amount to spawn": 1,
+    "Health": 500.0,
+    "Local spawn positions": [
+      {
+        "Position": {
+          "X": 0.0,
+          "Y": 1.54,
+          "Z": 0.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ]
+  },
+  "SamSite Settings": {
+    "Amount to spawn": 0,
+    "Health": 500.0,
+    "Local spawn positions": [
+      {
+        "Position": {
+          "X": 0.0,
+          "Y": 1.54,
+          "Z": 0.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ]
+  },
+  "Loot Settings": {
+    "The minimum amount of time a crate takes to hack (seconds)": 600,
+    "The maximum amount of time a crate takes to hack (seconds)": 900,
+    "Use custom loot table": true,
+    "Show loot container marker on map": true,
+    "Amount to spawn": 0,
+    "Local spawn positions": []
+  },
+  "Bradley Settings": {
+    "Amount to spawn": 0,
+    "Local spawn positions": [],
+    "Health": 500.0
+  }
+}

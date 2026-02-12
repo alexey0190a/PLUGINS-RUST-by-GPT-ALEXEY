@@ -1,0 +1,106 @@
+{
+  "NPC Settings": {
+    "Amount to spawn": 3,
+    "Starting health": 200,
+    "NPC Names": [],
+    "Scientist kits (chosen at random)": [],
+    "Local spawn positions": [
+      {
+        "Position": {
+          "X": -1.15,
+          "Y": 1.59,
+          "Z": 7.9
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": 1.15,
+          "Y": 1.59,
+          "Z": 7.9
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": -1.15,
+          "Y": 1.59,
+          "Z": -8.2
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": 1.15,
+          "Y": 1.59,
+          "Z": -8.2
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ]
+  },
+  "AutoTurret Settings": {
+    "Amount to spawn": 1,
+    "Health": 500.0,
+    "Local spawn positions": [
+      {
+        "Position": {
+          "X": 0.0,
+          "Y": 4.641,
+          "Z": -7.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": 0.0,
+          "Y": 4.641,
+          "Z": 5.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ]
+  },
+  "SamSite Settings": {
+    "Amount to spawn": 0,
+    "Health": 500.0,
+    "Local spawn positions": []
+  },
+  "Loot Settings": {
+    "The minimum amount of time a crate takes to hack (seconds)": 600,
+    "The maximum amount of time a crate takes to hack (seconds)": 900,
+    "Use custom loot table": true,
+    "Show loot container marker on map": true,
+    "Amount to spawn": 0,
+    "Local spawn positions": []
+  },
+  "Bradley Settings": {
+    "Amount to spawn": 0,
+    "Local spawn positions": [],
+    "Health": 500.0
+  }
+}

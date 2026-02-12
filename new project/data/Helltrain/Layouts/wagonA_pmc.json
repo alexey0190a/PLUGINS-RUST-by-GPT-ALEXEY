@@ -1,0 +1,122 @@
+{
+  "name": "wagonA_pmc",
+  "faction": "PMC",
+  "cars": [
+    {
+      "type": null,
+      "variant": "A"
+    }
+  ],
+  "objects": [
+    {
+      "type": "loot",
+      "faction": "PMC",
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -1.00407231,
+        1.69747937,
+        -0.298307538
+      ],
+      "rotationY": 269.650177,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "loot",
+      "faction": "PMC",
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -1.01104,
+        1.765376,
+        1.40000892
+      ],
+      "rotationY": 269.650879,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "npc",
+      "faction": "PMC",
+      "npc_type": "jugger",
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -0.4150163,
+        1.85960484,
+        2.98033786
+      ],
+      "rotationY": 183.775009,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "npc",
+      "faction": "PMC",
+      "npc_type": "main",
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -1.0941385,
+        1.63400519,
+        -3.53456831
+      ],
+      "rotationY": 248.47644,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "loot",
+      "faction": "PMC",
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -0.679663,
+        1.51377547,
+        -5.9214735
+      ],
+      "rotationY": 180.622528,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    }
+  ]
+}

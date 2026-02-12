@@ -1,0 +1,23 @@
+{
+  "name": "pmc_full",
+  "faction": "PMC",
+  "cars": [
+    {
+      "type": null,
+      "variant": "LOCO"
+    },
+    {
+      "type": null,
+      "variant": "C"
+    },
+    {
+      "type": null,
+      "variant": "C"
+    },
+    {
+      "type": null,
+      "variant": "C"
+    }
+  ],
+  "objects": null
+}

@@ -1,0 +1,11 @@
+{
+  "name": "loco_coblab",
+  "faction": "COBLAB",
+  "cars": [
+    {
+      "type": null,
+      "variant": "LOCO"
+    }
+  ],
+  "objects": null
+}

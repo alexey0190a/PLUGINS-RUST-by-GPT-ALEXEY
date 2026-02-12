@@ -1,0 +1,11 @@
+﻿{
+  "name": "wagonA_bandit",
+  "faction": "BANDIT",
+  "cars": [
+    {
+      "type": null,
+      "variant": "A"
+    }
+  ],
+  "objects": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "bandit_full",
+  "faction": "BANDIT",
+  "cars": [
+    {
+      "type": null,
+      "variant": "LOCO"
+    },
+    {
+      "type": null,
+      "variant": "C"
+    },
+    {
+      "type": null,
+      "variant": "C"
+    }
+  ],
+  "objects": null
+}

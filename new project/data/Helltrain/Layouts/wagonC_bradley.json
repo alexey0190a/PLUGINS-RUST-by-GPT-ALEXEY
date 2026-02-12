@@ -1,0 +1,11 @@
+{
+  "name": "wagonC_bradley",
+  "faction": "PMC",
+  "cars": [
+    {
+      "type": null,
+      "variant": "C"
+    }
+  ],
+  "objects": null
+}

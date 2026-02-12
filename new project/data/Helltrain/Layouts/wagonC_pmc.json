@@ -1,0 +1,100 @@
+{
+  "name": "wagonC_pmc",
+  "faction": "PMC",
+  "cars": [
+    {
+      "type": null,
+      "variant": "C"
+    }
+  ],
+  "objects": [
+    {
+      "type": "loot",
+      "faction": "PMC",
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        0.09200215,
+        1.46997976,
+        6.201427
+      ],
+      "rotationY": 0.07146755,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "samsite",
+      "faction": "PMC",
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -0.0697222352,
+        1.333758,
+        -6.08364058
+      ],
+      "rotationY": 205.932,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "turret",
+      "faction": "PMC",
+      "npc_type": null,
+      "kit": null,
+      "kits": null,
+      "gun": "m249",
+      "ammo": "ammo.rifle",
+      "ammo_count": 500,
+      "preset": null,
+      "presets": null,
+      "position": [
+        0.479613125,
+        1.4928745,
+        0.873391151
+      ],
+      "rotationY": 273.902954,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "npc",
+      "faction": "PMC",
+      "npc_type": "jugger",
+      "kit": null,
+      "kits": null,
+      "gun": null,
+      "ammo": null,
+      "ammo_count": 0,
+      "preset": null,
+      "presets": null,
+      "position": [
+        -0.9251581,
+        1.64870274,
+        -2.24631214
+      ],
+      "rotationY": 186.548141,
+      "health": 0.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    }
+  ]
+}

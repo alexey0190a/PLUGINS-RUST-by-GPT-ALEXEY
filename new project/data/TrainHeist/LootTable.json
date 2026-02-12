@@ -1,0 +1,240 @@
+{
+  "Minimum amount of items": 4,
+  "Maximum amount of items": 12,
+  "Items": [
+    {
+      "Shortname": "smgbody",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 30
+    },
+    {
+      "Shortname": "riflebody",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 30
+    },
+    {
+      "Shortname": "techtrash",
+      "Minimum amount": 2,
+      "Maximum amount": 4,
+      "Weight": 30
+    },
+    {
+      "Shortname": "metalpipe",
+      "Minimum amount": 5,
+      "Maximum amount": 6,
+      "Weight": 30
+    },
+    {
+      "Shortname": "targeting.computer",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 30
+    },
+    {
+      "Shortname": "cctv.camera",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 30
+    },
+    {
+      "Shortname": "metal.refined",
+      "Minimum amount": 15,
+      "Maximum amount": 25,
+      "Weight": 30
+    },
+    {
+      "Shortname": "supply.signal",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 30
+    },
+    {
+      "Shortname": "rifle.lr300",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 15,
+      "Spawn with item": {
+        "Shortname": "ammo.rifle",
+        "Minimum amount": 10,
+        "Maximum amount": 25,
+        "Weight": 1
+      }
+    },
+    {
+      "Shortname": "rifle.m39",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 15,
+      "Spawn with item": {
+        "Shortname": "ammo.rifle",
+        "Minimum amount": 10,
+        "Maximum amount": 25,
+        "Weight": 1
+      }
+    },
+    {
+      "Shortname": "rifle.l96",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 15,
+      "Spawn with item": {
+        "Shortname": "ammo.rifle",
+        "Minimum amount": 10,
+        "Maximum amount": 25,
+        "Weight": 1
+      }
+    },
+    {
+      "Shortname": "shotgun.spas12",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 15,
+      "Spawn with item": {
+        "Shortname": "ammo.shotgun",
+        "Minimum amount": 8,
+        "Maximum amount": 12,
+        "Weight": 1
+      }
+    },
+    {
+      "Shortname": "pistol.m92",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 20,
+      "Spawn with item": {
+        "Shortname": "ammo.pistol",
+        "Minimum amount": 10,
+        "Maximum amount": 25,
+        "Weight": 1
+      }
+    },
+    {
+      "Shortname": "rifle.ak",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 20,
+      "Spawn with item": {
+        "Shortname": "ammo.rifle",
+        "Minimum amount": 10,
+        "Maximum amount": 25,
+        "Weight": 1
+      }
+    },
+    {
+      "Shortname": "rifle.bolt",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 20,
+      "Spawn with item": {
+        "Shortname": "ammo.rifle",
+        "Minimum amount": 10,
+        "Maximum amount": 25,
+        "Weight": 1
+      }
+    },
+    {
+      "Shortname": "smg.mp5",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 20,
+      "Spawn with item": {
+        "Shortname": "ammo.pistol",
+        "Minimum amount": 15,
+        "Maximum amount": 25,
+        "Weight": 1
+      }
+    },
+    {
+      "Shortname": "lmg.m249",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 10,
+      "Spawn with item": {
+        "Shortname": "ammo.rifle",
+        "Minimum amount": 15,
+        "Maximum amount": 25,
+        "Weight": 1
+      }
+    },
+    {
+      "Shortname": "ammo.rocket.basic",
+      "Minimum amount": 1,
+      "Maximum amount": 3,
+      "Weight": 20
+    },
+    {
+      "Shortname": "metal.facemask",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 20
+    },
+    {
+      "Shortname": "metal.plate.torso",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 20
+    },
+    {
+      "Shortname": "explosive.timed",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 15
+    },
+    {
+      "Shortname": "weapon.mod.lasersight",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 20
+    },
+    {
+      "Shortname": "weapon.mod.smallscope",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 20
+    },
+    {
+      "Shortname": "weapon.mod.8x.scope",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 15
+    },
+    {
+      "Shortname": "ammo.rifle.explosive",
+      "Minimum amount": 5,
+      "Maximum amount": 15,
+      "Weight": 20
+    },
+    {
+      "Shortname": "ammo.rifle.incendiary",
+      "Minimum amount": 5,
+      "Maximum amount": 15,
+      "Weight": 20
+    },
+    {
+      "Shortname": "ammo.rifle.hv",
+      "Minimum amount": 10,
+      "Maximum amount": 25,
+      "Weight": 20
+    },
+    {
+      "Shortname": "heavy.plate.helment",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 10
+    },
+    {
+      "Shortname": "heavy.plate.jacket",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 10
+    },
+    {
+      "Shortname": "heavy.plate.pants",
+      "Minimum amount": 1,
+      "Maximum amount": 1,
+      "Weight": 10
+    }
+  ]
+}

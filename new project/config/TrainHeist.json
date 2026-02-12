@@ -1,0 +1,63 @@
+{
+  "Only attack players deemed hostile": false,
+  "Event Automation": {
+    "Enabled": true,
+    "Broadcast when event starts": true,
+    "Broadcast when event ends": true,
+    "Minimum amount of online players to trigger the event": 1,
+    "Minimum amount of time between events (seconds)": 3600,
+    "Maximum amount of time between events (seconds)": 5400,
+    "Use spawn overrides (if enabled the starting spawn point will be selected from the spawn override list)": false,
+    "Preferred spawn overrides": [
+      {
+        "Underground": false,
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Underground": false,
+        "Position": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ]
+  },
+  "Train Settings": {
+    "Use locomotive as train engine": true,
+    "Allow spawns to generate in under ground rail network": false,
+    "Allow spawns to generate on above ground rail network": true,
+    "Allow train to transition from under ground to above ground": false,
+    "Stop train on driver death": false,
+    "Despawn time for inactivity (seconds)": 1800,
+    "Amount of time from when all crates have been hacked until train self destructs (seconds)": 180,
+    "Train engine force": 50000.0,
+    "Train max speed": 15.0,
+    "Amount of damage required to slow the train down": 200.0,
+    "Amount of time the train slows down when damaged (seconds)": 8.0,
+    "Maximum velocity the train can travel when slowed due to damage": 4.0,
+    "Health regeneration per second": 5.0,
+    "Desired travel speed (Low, Medium, High)": "Medium",
+    "Carriage layout (Combination of WagonA, WagonB, WagonC, WagonResources, WagonLoot)": [
+      "WagonA",
+      "WagonB",
+      "WagonC",
+      "WagonB",
+      "WagonA",
+      "WagonС"
+    ]
+  },
+  "Helicopter Settings": {
+    "Amount to spawn": 1,
+    "Loot crates to spawn": 0
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 2,
+    "Patch": 34
+  }
+}

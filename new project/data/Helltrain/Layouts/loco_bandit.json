@@ -1,0 +1,86 @@
+﻿{
+  "name": "loco_bandit",
+  "faction": "BANDIT",
+  "cars": [
+    {
+      "variant": "LOCO"
+    }
+  ],
+  "objects": [
+    {
+      "type": "npc",
+      "npc_type": "bandit2",
+      "kit": "bandit2",
+      "kits": [],
+      "ammo_count": 0,
+      "position": [
+        -0.7072964,
+        1.67100906,
+        8.630541
+      ],
+      "rotationY": 264.23822,
+      "health": 150.0,
+      "hack_timer": 0.0
+    },
+    {
+      "type": "npc",
+      "npc_type": "bandit2",
+      "kit": "bandit2",
+      "kits": [],
+      "ammo_count": 0,
+      "position": [
+        1.24708319,
+        2.19203615,
+        6.57193947
+      ],
+      "rotationY": 186.8371,
+      "health": 150.0,
+      "hack_timer": 0.0
+    },
+    {
+      "type": "npc",
+      "npc_type": "bandit2",
+      "kit": "bandit2",
+      "kits": [],
+      "ammo_count": 0,
+      "position": [
+        -1.40216541,
+        1.62360454,
+        -7.341699
+      ],
+      "rotationY": 163.6399,
+      "health": 150.0,
+      "hack_timer": 0.0
+    },
+    {
+      "type": "npc",
+      "npc_type": "bandit2",
+      "kit": "bandit2",
+      "kits": [],
+      "ammo_count": 0,
+      "position": [
+        1.451426,
+        1.58558559,
+        -0.5032556
+      ],
+      "rotationY": 357.797668,
+      "health": 150.0,
+      "hack_timer": 0.0
+    },
+    {
+      "type": "npc",
+      "npc_type": "bandit3",
+      "kit": "bandit3",
+      "kits": [],
+      "ammo_count": 0,
+      "position": [
+        0.505942345,
+        2.27108049,
+        4.149714
+      ],
+      "rotationY": 103.122887,
+      "health": 150.0,
+      "hack_timer": 0.0
+    }
+  ]
+}

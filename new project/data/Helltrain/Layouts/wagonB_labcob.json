@@ -1,0 +1,11 @@
+{
+  "name": "wagonB_labcob",
+  "faction": "COBLAB",
+  "cars": [
+    {
+      "type": null,
+      "variant": "B"
+    }
+  ],
+  "objects": null
+}

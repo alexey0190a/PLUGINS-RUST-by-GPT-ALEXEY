@@ -1,0 +1,11 @@
+{
+  "name": "wagonB_pmc",
+  "faction": "PMC",
+  "cars": [
+    {
+      "type": null,
+      "variant": "B"
+    }
+  ],
+  "objects": null
+}

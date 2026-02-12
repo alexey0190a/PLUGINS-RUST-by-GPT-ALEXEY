@@ -1,0 +1,11 @@
+{
+  "name": "wagonC_samsite",
+  "faction": "COBLAB",
+  "cars": [
+    {
+      "type": null,
+      "variant": "C"
+    }
+  ],
+  "objects": null
+}

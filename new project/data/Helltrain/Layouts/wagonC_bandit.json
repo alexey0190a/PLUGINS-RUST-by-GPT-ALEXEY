@@ -1,0 +1,93 @@
+﻿{
+  "name": "wagonC_bandit",
+  "faction": "BANDIT",
+  "cars": [
+    {
+      "variant": "C"
+    }
+  ],
+  "objects": [
+    {
+      "type": "npc",
+      "npc_type": "bandit2",
+      "kit": "bandit2",
+      "kits": [],
+      "ammo_count": 0,
+      "position": [
+        -1.29488993,
+        1.47752786,
+        -1.25131881
+      ],
+      "rotationY": 308.135,
+      "health": 150.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "npc",
+      "npc_type": "bandit2",
+      "kit": "bandit2",
+      "kits": [],
+      "ammo_count": 0,
+      "position": [
+        1.099773,
+        1.487344,
+        -1.360169
+      ],
+      "rotationY": 27.8925,
+      "health": 150.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "npc",
+      "npc_type": "bandit1",
+      "kit": "bandit2",
+      "kits": [],
+      "ammo_count": 0,
+      "position": [
+        0.0334749222,
+        1.560396,
+        -7.294118
+      ],
+      "rotationY": 359.545227,
+      "health": 150.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    },
+    {
+      "type": "loot",
+      "ammo_count": 0,
+      "position": [
+        -0.995180964,
+        1.52978134,
+        6.88344336
+      ],
+      "rotationY": 181.36174,
+      "health": 5000.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 200.0,
+      "hack_timer_max": 300.0
+    },
+    {
+      "type": "npc",
+      "npc_type": "bandit2",
+      "kit": "bandit1",
+      "kits": [],
+      "ammo_count": 0,
+      "position": [
+        1.166549,
+        1.53474271,
+        7.20541763
+      ],
+      "rotationY": 354.4701,
+      "health": 150.0,
+      "hack_timer": 0.0,
+      "hack_timer_min": 0.0,
+      "hack_timer_max": 0.0
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "NPC Settings": {
+    "Amount to spawn": 3,
+    "Starting health": 200,
+    "NPC Names": [],
+    "Scientist kits (chosen at random)": [],
+    "Local spawn positions": [
+      {
+        "Position": {
+          "X": -0.61,
+          "Y": 1.422,
+          "Z": -4.25
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": -0.61,
+          "Y": 1.422,
+          "Z": 0.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": -0.61,
+          "Y": 1.422,
+          "Z": 1.25
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": -0.61,
+          "Y": 1.422,
+          "Z": -2.0
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ]
+  },
+  "AutoTurret Settings": {
+    "Amount to spawn": 1,
+    "Health": 500.0,
+    "Local spawn positions": [
+      {
+        "Position": {
+          "X": 0.87,
+          "Y": 2.625,
+          "Z": 0.45
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": 0.65,
+          "Y": 3.845,
+          "Z": 3.6
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        }
+      }
+    ]
+  },
+  "SamSite Settings": {
+    "Amount to spawn": 0,
+    "Health": 500.0,
+    "Local spawn positions": []
+  },
+  "Loot Settings": {
+    "The minimum amount of time a crate takes to hack (seconds)": 600,
+    "The maximum amount of time a crate takes to hack (seconds)": 900,
+    "Use custom loot table": true,
+    "Show loot container marker on map": true,
+    "Amount to spawn": 1,
+    "Local spawn positions": [
+      {
+        "Position": {
+          "X": 0.79,
+          "Y": 1.42,
+          "Z": -1.145531
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 270.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": 0.79,
+          "Y": 1.42,
+          "Z": -2.474861
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 270.0,
+          "Z": 0.0
+        }
+      },
+      {
+        "Position": {
+          "X": 0.79,
+          "Y": 1.42,
+          "Z": -3.770401
+        },
+        "Rotation": {
+          "X": 0.0,
+          "Y": 270.0,
+          "Z": 0.0
+        }
+      }
+    ]
+  },
+  "Bradley Settings": {
+    "Amount to spawn": 0,
+    "Local spawn positions": [],
+    "Health": 500.0
+  }
+}
